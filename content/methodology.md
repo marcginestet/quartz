@@ -1,3 +1,5 @@
+
+[Christopher Alexander - Wikipedia](https://en.wikipedia.org/wiki/Christopher_Alexander)
 # 1. Definitions
 ## What is measured?
 We take the Carbon Dioxide equivalent (CO<sub>2</sub>-eq) has measurement. It takes into account the collective > > > contribution of greenhouse gases (including CO<sub>2</sub>, CH<sub>4</sub>, NO<sub>2</sub>, etc.)

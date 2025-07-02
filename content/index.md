@@ -1,4 +1,13 @@
 ---
-title: Building Life Cycle Carbon Emissions
+title: Low-Carbon Design
 ---
-[[blcce]]
+# About
+This 
+## [[methodology]]
+Low carbon design
+## [[samples]]
+Buildings and neighborhoods
+
+# To do
+- [ ] Find books and certifications relevant with actual market demand
+- [ ] Add project pages 
