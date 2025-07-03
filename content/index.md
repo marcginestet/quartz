@@ -4,9 +4,9 @@ title: architecture
 # About
 blablabla
 # Playground
-## [[methodology]]
+## [[content/tools/method of estimation]]
 Low carbon design
-## [[database]]
+## [[content/projects/00 List of Content]]
 Buildings and neighborhoods
 # Inspiration
 ## Books
