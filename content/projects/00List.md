@@ -1,5 +1,5 @@
 ---
-title: Buildings and neighborhoods
+title: List of projects
 ---
 # Buildings
 [[ChuZhouHospital]]
