@@ -4,7 +4,7 @@ tags: []
 ---
 # About
 Hospital building in Chuzhou City, Anhui Province, China
-# Project Performances
+# Performances
 ## Building Life Cycle Carbon Emissions (blcce)
 ### Total emissions 
 40,083.56 tCO<sub>2</sub>-eq/(m².y)

@@ -4,5 +4,5 @@ tags:
   - retail
 ---
 # About
-# Project Performances
+# Performances
 # Visuals
