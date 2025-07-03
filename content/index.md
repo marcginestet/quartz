@@ -2,13 +2,12 @@
 title: architecture
 ---
 # About
-blablabla
+![[content/images/3752072.png]]
 # Playground
-## [[method]] for Low carbon design
-## [[00List]] of Buildings and neighborhoods
+## Elements of [[method]] for Low carbon design
+## A [[00List|List]] of Buildings and neighborhoods
 # Inspiration
 ## Books
 ## certifications
 ## Projects
 ## links
-[Christopher Alexander - Wikipedia](https://en.wikipedia.org/wiki/Christopher_Alexander)
