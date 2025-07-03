@@ -1,5 +1,5 @@
 ---
-title: Samples
+title: Buildings and neighborhoods
 ---
 # Buildings
 [[ChuZhouHospital]]

@@ -1,13 +1,16 @@
 ---
-title: Low-Carbon Design
+title: architecture
 ---
 # About
-This 
+blablabla
+# Playground
 ## [[methodology]]
 Low carbon design
-## [[samples]]
+## [[database]]
 Buildings and neighborhoods
-
-# To do
-- [ ] Find books and certifications relevant with actual market demand
-- [ ] Add project pages 
+# Inspiration
+## Books
+## certifications
+## Projects
+## links
+[Christopher Alexander - Wikipedia](https://en.wikipedia.org/wiki/Christopher_Alexander)
