@@ -1,10 +1,10 @@
 ---
-title: Hospital
-tags: []
+title: Low Carbon Hospital in Chuzhou
+tags:
+  - public
 ---
 # About
 Hospital building in Chuzhou City, Anhui Province, China
-# Performances
 ## Building Life Cycle Carbon Emissions (blcce)
 ### Total emissions 
 40,083.56 tCO<sub>2</sub>-eq/(m².y)
@@ -15,3 +15,4 @@ Construction phase: 7.90%
 Operational: 91.31%
 Demolition: 0.79%
 # Visuals
+🏨

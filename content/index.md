@@ -1,13 +1,7 @@
 ---
-title: architecture
+title: Index Page
 ---
-# About
-![](images/3752072.png)
-# Playground
-## Elements of [[method]] for Low carbon design
-## A [[00List|List]] of Buildings and neighborhoods
-# Inspiration
-## Books
-## certifications
-## Projects
-## links
+# Low Carbon Design from Buildings to Neighborhoods
+## Past projects and other experiments: [[plist|PList]]
+## Toolbox for future projects: [[tlist|TList]]
+![](images/about.png)
