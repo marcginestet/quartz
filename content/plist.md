@@ -1,5 +1,5 @@
 ---
-title: Experiments and past projects
+title: Past projects
 ---
 # Buildings
 - [Dijon 2007 Elythis](pl0701dijon2007elythis.md)
