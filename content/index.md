@@ -1,8 +1,6 @@
 ---
-title: design technologies
+title: About
 ---
-![](images/about.png)
-# About
 - 👋 Hi, I’m @marcginestet
 - 👀 I’m interested in 
 	- Architectural storytelling
@@ -12,3 +10,6 @@ title: design technologies
 - 🌱 I’m currently work as a project consultant and tutor in design technologies
 - 💞️ I like to collaborate on solutions related to above topics
 - 📫 Reach me by email m-dot-ginestet-at-qq-dot-com
+
+
+![](images/about.png)
