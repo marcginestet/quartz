@@ -1,11 +1,14 @@
 ---
-title: Design studies
+title: design technologies
 ---
 ![](images/about.png)
 # About
-Worldwide, the average person produces about **four tons** of carbon dioxide each year.
-# Content
-Collection of projects and tools
-- [[plist|Projects]]  
-- **[[tlist|Tools]]**
-
+- 👋 Hi, I’m @marcginestet
+- 👀 I’m interested in 
+	- Architectural storytelling
+	- Generative & Parametric Design
+	- Visualization, Rendering & BIM
+	- Climate-positive design
+- 🌱 I’m currently work as a project consultant and tutor in design technologies
+- 💞️ I like to collaborate on solutions related to above topics
+- 📫 Reach me by email m-dot-ginestet-at-qq-dot-com
